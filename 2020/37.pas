@@ -8,5 +8,4 @@ end;
 
 begin
     writeln(ayam(19, 39));
-    writeln('ayam')
 end.
